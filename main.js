@@ -177,7 +177,7 @@ function getsearchmood(id)
     else
     {
         searchmood='category';
-        search.placeholder='search by title';
+        search.placeholder='search by category';
     }
     search.focus();
     search.value='';
